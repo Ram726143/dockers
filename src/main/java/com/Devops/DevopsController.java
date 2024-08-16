@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DevopsController {
 	@GetMapping("getdevval")
 	public String getdov() {
-		return "I am a docker";
+		return "Onesoft mass hero jeeva";
 	}
 
 }
